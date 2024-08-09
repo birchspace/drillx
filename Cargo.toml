@@ -1,0 +1,16 @@
+[package]
+name = "birchspace-drillx"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cached = "0.53.1"
+drillx = "2.0.0"
+futures = "0.3.30"
+ore-api = "2.1.0"
+ore-utils = "2.1.0"
+rayon = "1.10.0"
+solana-client = "^1.18"
+solana-program = "^1.18"
+solana-sdk = "^1.18"
+tokio = "1.39.2"
